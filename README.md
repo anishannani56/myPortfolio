@@ -17,7 +17,7 @@
 
 <br>
 To add an image:
-![](/assets/img/7713e490062ec08ca0590de9708f6e7a.jpg)
+![Skill Logos](/assets/img/7713e490062ec08ca0590de9708f6e7a.jpg)
 
 ## 🎓 Education  
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  

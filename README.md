@@ -13,8 +13,11 @@
 - **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
 - **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
 - **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
-- **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
+- **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems
+
 <br>
+To add an image:
+![](/assets/img/)
 
 ## 🎓 Education  
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  

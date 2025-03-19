@@ -15,9 +15,7 @@
 - **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
 - **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems
 
-<br>
-To add an image:
-![Skill Logos](/assets/img/7713e490062ec08ca0590de9708f6e7a.jpg)
+![Skill Logo](/assets/img/7713e490062ec08ca0590de9708f6e7a.jpg)
 
 ## 🎓 Education  
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  

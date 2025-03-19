@@ -14,7 +14,6 @@
 - **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
 - **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
 - **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems
-
 ![Skill Logo](/assets/img/7713e490062ec08ca0590de9708f6e7a.jpg)
 
 ## 🎓 Education  
@@ -43,7 +42,7 @@
 <br>
 
 ## 📂 Projects  
-### 🔹 AI-Based Renewable Energy Forecasting  
+### 🔹 [AI-Based Renewable Energy Forecasting](https://colab.research.google.com/drive/1AbV2BnvoUpELwP2VrsmTHPnrtpkwWBo0?authuser=0#scrollTo=_dM0B-bowVhK)
 - Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
 - Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
 <br>
